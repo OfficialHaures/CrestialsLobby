@@ -1,0 +1,4 @@
+name: LobbyCore
+version: 1.0.0
+main: net.milan.lobbycore.LobbyCore
+api-version: 1.16
